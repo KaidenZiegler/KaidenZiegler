@@ -79,7 +79,6 @@ A full-stack marketplace featuring authentication, responsive design, real-time 
 
 - Email: [kaiden.j.ziegler@gmail.com](mailto:kaiden.j.ziegler@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kaiden-ziegler-3786902ba/)
-- GitHub: [GitHub](https://github.com/KaidenZiegler)
 
 <!--
 **KaidenZiegler/KaidenZiegler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
